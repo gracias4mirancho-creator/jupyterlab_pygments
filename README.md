@@ -1,4 +1,4 @@
-# JupyterLab Pygments Theme
+## JupyterLab Pygments Theme
 
 This package contains a syntax coloring theme for [pygments](http://pygments.org/) making use of
 the JupyterLab CSS variables.
